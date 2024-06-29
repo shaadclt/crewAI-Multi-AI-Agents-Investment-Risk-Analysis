@@ -54,14 +54,14 @@ pip install crewai==0.28.8 crewai_tools==0.1.6 langchain_community==0.0.29
 ```
 
 2. Set Up API Keys
-Ensure you have the following API keys set up in your environment:
+- Ensure you have the following API keys set up in your environment:
 ```bash
 SERPER_API_KEY
 OPENAI_API_KEY
 ```
 
 3. Running the Project
-To execute the project, ensure all dependencies are installed, API keys are set, and agents are properly configured. Run all the tabs of the notebook one by one.
+- To execute the project, ensure all dependencies are installed, API keys are set, and agents are properly configured. Run all the tabs of the notebook one by one.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
