@@ -1,4 +1,4 @@
-# Using Mulit AI Agents for Investment Risk Analysis
+# Using crewAI Multi AI Agents for Investment Risk Analysis
 
 This project automates the process of monitoring market data, developing trading strategies, executing trades, and assessing risks using a team of specialized AI Agents from crewAI. Each agent is equipped with specific roles and goals, and they collaborate to optimize trading decisions and strategies. The project leverages the crewai library and langchain_community tools to facilitate communication and task management among the agents.
 
