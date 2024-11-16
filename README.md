@@ -64,5 +64,5 @@ OPENAI_API_KEY
 - To execute the project, ensure all dependencies are installed, API keys are set, and agents are properly configured. Run all the tabs of the notebook one by one.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
